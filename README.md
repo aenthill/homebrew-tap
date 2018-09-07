@@ -1,2 +1,5 @@
 # homebrew-tap
-Homebrew Formulae to @aenthill binaries
+
+```bash
+$ brew install aenthill/tap/aenthill
+```

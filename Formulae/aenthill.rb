@@ -1,9 +1,9 @@
 class Aenthill < Formula
   desc "command-line tool that helps bootstraping your Docker projects easily"
   homepage "https://aenthill.github.io/"
-  url "https://github.com/aenthill/aenthill/releases/download/0.0.21/aenthill_darwin_amd64.tar.gz"
-  version "0.0.21"
-  sha256 "5ff1cd05ae356a21eabacdd237e2036e21fb1260a7bb1244c891f76938980a6c"
+  url "https://github.com/aenthill/aenthill/releases/download/0.0.22/aenthill_darwin_amd64.tar.gz"
+  version "0.0.22"
+  sha256 "e8323e3eca8ce89e91935da2637093900beb3f1ab5e7fe9f98c17a04a229e886"
 
   def install
     bin.install "aenthill"
